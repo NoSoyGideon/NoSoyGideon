@@ -62,7 +62,7 @@
 
 ### 📫 Contacto
 
-- 📧 orlandoandresmarcano@gmail.com
+- 📧 oamarcano1@urbe.edu.ve
 - 💼 *LinkedIn en desarrollo*
 <!-- - 🌐 [Portafolio](#) -->
 <!-- - 🖼️ ¡GIFs de proyectos pronto! -->
