@@ -1,3 +1,6 @@
+<a href="https://github.com/NoSoyGideon">
+  <img src="https://i.postimg.cc/FHSfWBQb/GASPERINI-BANNER.jpg" width="120%" alt="Gasperini Banner"/>
+</a>
 <h1 align="center">¡Hola! Soy Orlando Andrés Marcano 👋</h1>
 
 <p align="center">
