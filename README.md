@@ -21,7 +21,7 @@
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
       <td width="65%" valign="top" style="padding-right: 20px;">
-        <h2 align="left"># Professional Overview</h2>
+        <h2 align="left">About me</h2>
         <p align="left">
           <img src="https://img.shields.io/badge/Backend-Java_Spring-blue?style=flat-square">
           <img src="https://img.shields.io/badge/Data-PostgreSQL_Expert-316192?style=flat-square">
@@ -55,66 +55,69 @@
 </div>
 
 ---
+<div align="center">
 
-### 🛠️ Tecnologías y herramientas
+  <h2>Technologies</h2>
+</div>
+<div align="center">
+  <h2>Core Architecture & Backend Engine</h2>
 
-**Lenguajes:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white">
+  <br><br>  
+  <h2>Methodology & Productivity</h2>
 
-**Frameworks / Backend:**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  <img src="https://img.shields.io/badge/Maven-30363D?style=flat-square&logo=apachemaven&logoColor=white">
+      <img src="https://img.shields.io/badge/Postman-30363D?style=flat-square&logo=postman&logoColor=white">
+      <img src="https://img.shields.io/badge/Notion-30363D?style=flat-square&logo=notion&logoColor=white">
+      <img src="https://img.shields.io/badge/Linux_Bash-30363D?style=flat-square&logo=linux&logoColor=white">
+    </td>
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
-**Bases de datos:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Data & Analytics:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/Seaborn-77AC30?style=for-the-badge&logo=seaborn&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
 
 
 ---
 
-### 📊 En camino...
+<div align="center">
+  <h2>Metrics & Activity</h2>
+</div>
 
-- 🎯 Certificaciones en bases de datos, Python y ciencia de datos
-- 🧪 Proyectos propios con análisis de datos y visualizaciones
-- 💡 Aplicaciones funcionales en backend con conexión a BDD
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=NoSoyGideon&show_icons=true&theme=transparent&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&show=reviews,discussions&rank_icon=github" height="170" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoSoyGideon&layout=compact&theme=transparent&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&hide=css,html" height="170" />
+      </td>
+    </tr>
+  </table>
 
----
-
-### 🚧 Proyectos destacados *(en construcción)*
-
-> *Pronto verás aquí algunos de mis trabajos en Java, Python y análisis de datos...*
-
----
-
-### 📫 Contacto
-
-- 📧 oamarcano1@urbe.edu.ve
-- 💼 *LinkedIn en desarrollo*
-<!-- - 🌐 [Portafolio](#) -->
-<!-- - 🖼️ ¡GIFs de proyectos pronto! -->
-
----
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoSoyGideon&theme=transparent&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&hide_border=false" height="150" />
+      </td>
+      <td>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoSoyGideon&theme=github-dark&color=ffffff&bg_color=0d1117&hide_border=false&area=true&hide_title=true" height="150" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300"/>
+  <i>"These metrics aren't just numbers; they are a debt being paid. I'm no longer interested in who I was, but in how much I can optimize who I am becoming."</i>
 </p>
 
 ---
 
-<p align="center">
-  Gracias por visitar mi perfil 🙌 ¡Estoy abierto a oportunidades remotas para mi primer empleo!
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=60&section=footer" width="100%"/>
+</div>
