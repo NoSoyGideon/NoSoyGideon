@@ -57,7 +57,7 @@
   <a href="https://www.linkedin.com/in/orlando-andres-marcano-andara-6075b7228/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/584146765278"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:oamarcano1@urbe.edu.ve"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="TU_LINK_DE_RESUME"><img alt="Resume" src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="https://drive.google.com/drive/folders/1UbC15tvSxM7boQfZ08qVMuNXMfzhioaL?usp=drive_link"><img alt="Resume" src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </div>
 
 </div>
