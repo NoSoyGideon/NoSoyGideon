@@ -1,33 +1,58 @@
 <a href="https://github.com/NoSoyGideon">
-  <img src="https://i.postimg.cc/FHSfWBQb/GASPERINI-BANNER.jpg" width="120%" alt="Gasperini Banner"/>
+  <img src="https://i.postimg.cc/Jnh0v3yR/New-Project.png" width="100%" alt="Gasperini Banner"/>
 </a>
-<h1 align="center">Hello, I'm Orlando Andrés Marcano 👋</h1>
+
 <div align="center">
-  <a href="https://github.com/NoSoyGideon?tab=repositories"><img alt="Stars" title="Stars Profile" src="https://img.shields.io/github/stars/Synaptara?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiPjwvcGF0aD48L3N2Zz4=" /></a>
-  &nbsp;
-  <a href="https://github.com/NoSoyGideon/Gen-Ghost_v1/forks"><img alt="Forks" title="Forks Repository" src="https://img.shields.io/github/forks/Synaptara/Gen-Ghost_v1?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTUgNS4zNzJ2Ljg3OGMwIC40MTQuMzM2Ljc1Ljc1Ljc1aDQuNWEuNzUuNzUgMCAwIDAgLjc1LS43NXYtLjg3OGEyLjI1IDIuMjUgMCAxIDEgMS41IDB2Ljg3OGEyLjI1IDIuMjUgMCAwIDEtMi4yNSAyLjI1aC0xLjV2Mi4xMjhhMi4yNTEgMi4yNTEgMCAxIDEtMS41IDBWOC41aC0xLjVBMi4yNSAyLjI1IDAgMCAxIDMuNSA2LjI1di0uODc4YTIuMjUgMi4yNSAwIDEgMSAxLjUgMFpNNSAzLjI1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBabTYuNzUuNzVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm0tMyA4Ljc1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBaIj48L3BhdGg+PC9zdmc+"/></a>
-  &nbsp;
-  <a href="https://github.com/NoSoyGideon?tab=followers"><img alt="Followers" title="Github Followers" src="https://img.shields.io/github/followers/Synaptara?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIgNS41YTMuNSAzLjUgMCAxIDEgNS44OTggMi41NDkgNS41MDggNS41MDggMCAwIDEgMy4wMzQgNC4wODQuNzUuNzUgMCAxIDEtMS40ODIuMjM1IDQgNCAwIDAgMC03LjkgMCAuNzUuNzUgMCAwIDEtMS40ODItLjIzNkE1LjUwNyA1LjUwNyAwIDAgMSAzLjEwMiA4LjA1IDMuNDkzIDMuNDkzIDAgMCAxIDIgNS41Wk0xMSA0YS43NS43NSAwIDEgMCAwIDEuNSAxLjUgMS41IDAgMCAxIC42NjYgMi44NDQuNzUuNzUgMCAwIDAtLjQxNi42NzJ2LjM1MmEuNzUuNzUgMCAwIDAgLjU3NC43M2MxLjIuMjg5IDIuMTYyIDEuMiAyLjUyMiAyLjM3MmEuNzUuNzUgMCAxIDAgMS40MzQtLjQ0IDUuMDEwIDUuMDEwIDAgMCAwLTMuMTAyLTMuMTY4QTMgMyAwIDAgMCAxMSA0Wm0tNS41LS41YTIgMiAwIDEgMCAwIDQgMiAyIDAgMCAwIDAtNFoiPjwvcGF0aD48L3N2Zz4=" /></a>
-  &nbsp;
-  <a href="https://karthick-portfolio-steel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  &nbsp;
-  <a href="mailto:karthick.aidev@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  &nbsp;
-  <a href="https://drive.google.com/file/d/1W8HDDCPTHcm6hw8zbzDeKoxIxoKsz_VN/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSA5aC00VjNIOXY2SDVsNyA3IDctN3pNNSAxOHYyaDE0di0ySDV6Ii8+PC9zdmc+&logoColor=white"></a>
+  <a href="https://github.com/NoSoyGideon?tab=repositories"><img alt="Stars" src="https://img.shields.io/github/stars/NoSoyGideon?style=for-the-badge&color=000000&labelColor=000000&logo=github" /></a>
+  <a href="https://github.com/NoSoyGideon?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/NoSoyGideon?style=for-the-badge&color=000000&labelColor=000000&logo=github" /></a>
+  <a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="TU_LINK_DE_RESUME"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white"></a>
 </div>
-<p align="center">
-  Desarrollador backend | Apasionado por los datos | Futuro científico de datos 🧠📊<br>
-  Desde Zulia, Venezuela 🇻🇪 | Español 🇪🇸 & English 🇬🇧
-</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Degree-URBE_Computer_Engineer-black?style=flat-square&logo=academia.edu&logoColor=white">
+  <img src="https://img.shields.io/badge/Location-Zulia,_VE-black?style=flat-square&logo=googlemaps&logoColor=white">
+  <img src="https://img.shields.io/badge/Languages-ES_%7C_EN-black?style=flat-square">
+</div>
 
 ---
 
-### 💼 Sobre mí
-
-🎓 Soy un estudiante de Ingeniería Informática apasionado por la programación, los datos y el crecimiento constante.  
-💡 Actualmente me especializo en **gestión de bases de datos** y **desarrollo backend** con Java y Spring Boot.  
-🔭 Estoy reforzando mis habilidades en frontend, mientras avanzo hacia mi objetivo de convertirme en **analista de datos** y, más adelante, en **ingeniero de inteligencia artificial**.  
-🚀 Me entusiasma crear proyectos útiles, resolver problemas y aprender nuevas tecnologías.
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="65%" valign="top" style="padding-right: 20px;">
+        <h2 align="left"># Professional Overview</h2>
+        <p align="left">
+          <img src="https://img.shields.io/badge/Backend-Java_Spring-blue?style=flat-square">
+          <img src="https://img.shields.io/badge/Data-PostgreSQL_Expert-316192?style=flat-square">
+        </p>
+        
+  <p align="justify">
+          I am a <strong>Computer Engineering graduate</strong> focused on architecting high-performance backend systems. My expertise centers on the <strong>Java</strong> ecosystem, where I apply <strong>Clean Code</strong> principles and rigorous technical logic to every solution.
+        </p>
+        <p align="justify">
+          Driven by a commitment to efficiency, I don't just build software; I optimize it. From database tuning to containerized deployments with <strong>Docker</strong>, I ensure systems are scalable and production-ready.
+        </p>
+        <p align="justify">
+          Currently, I am evolving my career towards <strong>Data Science & AI</strong>, mastering <strong>Python</strong> to bridge the gap between robust engineering and intelligent data analytics.
+        </p>
+        
+  <p align="left">
+          <br>
+          <code><strong>Status:</strong> Building the next generation of data-aware infrastructures. 🚀</code>
+        </p>
+      </td>
+      
+  <td width="35%" align="center" valign="middle">
+        <img src="https://i.postimg.cc/VsrHnd48/Untitled.jpg" alt="Inspiration & Balance" width="280" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.3); border: 2px solid #30363d;">
+        <br>
+        <p style="color: #8b949e; font-style: italic; font-size: 0.85em; margin-top: 10px;">
+          "The inspiration behind the code."
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
