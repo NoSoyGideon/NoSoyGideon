@@ -2,19 +2,18 @@
   <img src="https://i.postimg.cc/Jnh0v3yR/New-Project.png" width="100%" alt="Gasperini Banner"/>
 </a>
 
-<div align="center">
-  <a href="https://github.com/NoSoyGideon?tab=repositories"><img alt="Stars" src="https://img.shields.io/github/stars/NoSoyGideon?style=for-the-badge&color=000000&labelColor=000000&logo=github" /></a>
-  <a href="https://github.com/NoSoyGideon?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/NoSoyGideon?style=for-the-badge&color=000000&labelColor=000000&logo=github" /></a>
-  <a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="TU_LINK_DE_RESUME"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white"></a>
-</div>
+
+<br>
 
 <div align="center">
+  <p align="center"><strong>Professional Profile</strong></p>
   <img src="https://img.shields.io/badge/Degree-URBE_Computer_Engineer-black?style=flat-square&logo=academia.edu&logoColor=white">
   <img src="https://img.shields.io/badge/Location-Zulia,_VE-black?style=flat-square&logo=googlemaps&logoColor=white">
   <img src="https://img.shields.io/badge/Languages-ES_%7C_EN-black?style=flat-square">
+  <img src="https://img.shields.io/badge/Status-Open_To_Work-black?style=flat-square">
 </div>
 
+---
 ---
 
 <div align="center">
@@ -52,6 +51,15 @@
       </td>
     </tr>
   </table>
+  <div align="center">
+  <p align="center"><strong>Contact with me</strong></p>
+  <a href="https://github.com/NoSoyGideon"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/TU_NUMERO"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:tu-correo@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="TU_LINK_DE_RESUME"><img alt="Resume" src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+</div>
+
 </div>
 
 ---
