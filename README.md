@@ -54,9 +54,9 @@
   <div align="center">
   <p align="center"><strong>Contact with me</strong></p>
   <a href="https://github.com/NoSoyGideon"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://wa.me/TU_NUMERO"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="mailto:tu-correo@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/orlando-andres-marcano-andara-6075b7228/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/584146765278"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:oamarcano1@urbe.edu.ve"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="TU_LINK_DE_RESUME"><img alt="Resume" src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </div>
 
